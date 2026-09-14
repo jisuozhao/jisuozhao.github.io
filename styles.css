@@ -60,10 +60,10 @@ h1 {
   max-width: 900px;
   margin: 20px 0 0;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(4rem, 12vw, 9.5rem);
+  font-size: clamp(3rem, 6vw, 5rem);
   font-weight: 400;
-  letter-spacing: -0.065em;
-  line-height: 0.84;
+  letter-spacing: -0.045em;
+  line-height: 1;
 }
 
 .education {
@@ -142,8 +142,8 @@ h3 {
   }
 
   h1 {
-    font-size: clamp(3.25rem, 17vw, 5.25rem);
-    letter-spacing: -0.055em;
+    font-size: clamp(2.75rem, 12vw, 3.75rem);
+    letter-spacing: -0.04em;
   }
 
   .education {
